@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bumitk
-- 👀 I’m interested in programming Java Selenium
+- 👀 I’m interested in programming Java Python Selenium
 - 🌱 I’m currently learning Docker
 - 💞️ I’m looking to collaborate on programming 
 - 📫 How to reach me ubkocaoglu@gmail.com
