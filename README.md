@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @bumitk
-- 👀 I’m interested in programming Java Python Selenium
+- 👋 Hi, I’m @B:Umit_KOCAOĞLU
+- 👀 I’m interested in programming Java Python Selenium Docker 
+- 👀 My hobbies Linux Distros
 - 🌱 I’m currently learning Docker
 - 💞️ I’m looking to collaborate on programming 
 - 📫 How to reach me ubkocaoglu@gmail.com
